@@ -1,6 +1,6 @@
 {
     "name": "Learn Vimscript the Hard Way",
-    "version": "latest",
+    "version": "/latest",
     "archive": "vimscript.tgz",
     "author": {
         "name": "Rick van Hattem",
